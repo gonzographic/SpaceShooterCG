@@ -1187,3 +1187,323 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.12.18-16.45.03:289][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.027355 secs
 [2024.12.18-16.45.03:326][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2024.12.18-16.45.22:949][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Projectiles/BP_Projectile.BP_Projectile
+[2024.12.18-16.45.22:950][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-16.45.22:950][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-16.45.22:958][ 52]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.12.18-16.45.23:562][ 52]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.18-16.45.25:728][294]LogSlate: Window 'BP_Projectile' being destroyed
+[2024.12.18-16.45.45:446][652]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-16.45.45:446][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-16.45.53:419][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner.BP_PickupSpawner
+[2024.12.18-16.45.53:419][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-16.45.53:420][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-16.45.55:376][770]LogSlate: Window 'BP_PickupSpawner' being destroyed
+[2024.12.18-16.46.11:972][756]BlueprintLog: New page: Compile BP_PickupSpawner
+[2024.12.18-16.46.12:004][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.18-16.46.12:626][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-16.46.12:665][828]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.004666 seconds
+[2024.12.18-16.46.12:671][828]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner
+[2024.12.18-16.46.12:671][828]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_PickupSpawner7FC2D1204E9FBAA780B9A48F03A84AC8.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner.uasset'
+[2024.12.18-16.46.12:679][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms
+[2024.12.18-16.46.12:680][828]AssetCheck: New page: Asset Save: BP_PickupSpawner
+[2024.12.18-16.46.12:680][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner.BP_PickupSpawner
+[2024.12.18-16.46.17:733][430]BlueprintLog: New page: Compile BP_PickupSpawner
+[2024.12.18-16.46.17:751][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.18-16.46.18:239][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-16.46.18:268][486]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner
+[2024.12.18-16.46.18:269][486]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_PickupSpawnerCFF96D8D4F457591782C9F968D374293.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner.uasset'
+[2024.12.18-16.46.18:276][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 88 ms)
+[2024.12.18-16.46.18:276][486]AssetCheck: New page: Asset Save: BP_PickupSpawner
+[2024.12.18-16.46.18:276][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_PickupSpawner.BP_PickupSpawner
+[2024.12.18-16.46.19:076][581]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-16.46.19:076][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-16.46.21:320][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.BP_MaxEnemiesSpawner
+[2024.12.18-16.46.21:320][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-16.46.21:320][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-16.46.25:717][344]LogSlate: Window 'BP_MaxEnemiesSpawner' being destroyed
+[2024.12.18-16.46.59:022][630]LogDerivedDataCache: C:/Users/bycod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1141 files in 1841 folders with total size 12 MiB.
+[2024.12.18-17.13.45:036][ 55]BlueprintLog: New page: Compile BP_MaxEnemiesSpawner
+[2024.12.18-17.13.45:056][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.18-17.13.45:656][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.13.45:696][122]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner
+[2024.12.18-17.13.45:696][122]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MaxEnemiesSpawner9073CD484480EE0F41E362838C9F70AB.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.uasset'
+[2024.12.18-17.13.45:703][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 135 ms)
+[2024.12.18-17.13.45:705][122]AssetCheck: New page: Asset Save: BP_MaxEnemiesSpawner
+[2024.12.18-17.13.45:705][122]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.BP_MaxEnemiesSpawner
+[2024.12.18-17.14.07:034][674]BlueprintLog: New page: Compile BP_MaxEnemiesSpawner
+[2024.12.18-17.14.07:054][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.18-17.14.07:815][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.14.07:845][759]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner
+[2024.12.18-17.14.07:845][759]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MaxEnemiesSpawner371A122D4BCC9E7A35CA17A15564D4CE.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.uasset'
+[2024.12.18-17.14.07:852][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 172 ms)
+[2024.12.18-17.14.07:852][759]AssetCheck: New page: Asset Save: BP_MaxEnemiesSpawner
+[2024.12.18-17.14.07:852][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.BP_MaxEnemiesSpawner
+[2024.12.18-17.14.17:279][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.BP_BaseSpawner
+[2024.12.18-17.14.17:279][882]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.14.17:279][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.14.53:597][211]BlueprintLog: New page: Compile BP_BaseSpawner
+[2024.12.18-17.14.53:629][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.18-17.14.53:986][250]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.12.18-17.14.53:987][250]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.12.18-17.14.54:167][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.14.54:231][271]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner
+[2024.12.18-17.14.54:231][271]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_BaseSpawner78ED6D034813415C2FC35C91795EF508.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.uasset'
+[2024.12.18-17.14.54:238][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 243 ms)
+[2024.12.18-17.14.54:239][271]AssetCheck: New page: Asset Save: BP_BaseSpawner
+[2024.12.18-17.14.54:239][271]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.BP_BaseSpawner
+[2024.12.18-17.15.17:032][991]BlueprintLog: New page: Compile BP_BaseSpawner
+[2024.12.18-17.15.17:065][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.18-17.15.17:586][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.15.17:632][ 46]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner
+[2024.12.18-17.15.17:632][ 46]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_BaseSpawner5D50FB4F4105004E58ED6783644395F2.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.uasset'
+[2024.12.18-17.15.17:638][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 295 ms)
+[2024.12.18-17.15.17:640][ 46]AssetCheck: New page: Asset Save: BP_BaseSpawner
+[2024.12.18-17.15.17:640][ 46]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.BP_BaseSpawner
+[2024.12.18-17.15.19:522][268]BlueprintLog: New page: Compile BP_MaxEnemiesSpawner
+[2024.12.18-17.15.19:538][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.18-17.15.20:026][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.15.20:053][321]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner
+[2024.12.18-17.15.20:053][321]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MaxEnemiesSpawner8B9474D24C4B5E6D9952C6892F6F3C6C.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.uasset'
+[2024.12.18-17.15.20:060][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 330 ms)
+[2024.12.18-17.15.20:062][321]AssetCheck: New page: Asset Save: BP_MaxEnemiesSpawner
+[2024.12.18-17.15.20:062][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_MaxEnemiesSpawner.BP_MaxEnemiesSpawner
+[2024.12.18-17.15.26:996][149]BlueprintLog: New page: Compile BP_BaseSpawner
+[2024.12.18-17.15.27:030][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.18-17.15.27:431][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.15.27:469][193]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner
+[2024.12.18-17.15.27:470][193]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_BaseSpawnerCB11B3A146CB04E55353C490E07DBFA8.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.uasset'
+[2024.12.18-17.15.27:478][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 376 ms)
+[2024.12.18-17.15.27:479][193]AssetCheck: New page: Asset Save: BP_BaseSpawner
+[2024.12.18-17.15.27:479][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_BaseSpawner.BP_BaseSpawner
+[2024.12.18-17.15.33:972][972]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.12.18-17.15.40:650][769]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.15.40:650][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.15.43:358][ 85]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.18-17.15.43:358][ 85]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.15.43:358][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.15.44:425][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.15.44:483][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.18-17.15.44:492][210]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Maps/MainMenu
+[2024.12.18-17.15.44:492][210]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/MainMenu3D8B582C4C85178FCB9B849A0A0A9D97.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Maps/MainMenu.umap'
+[2024.12.18-17.15.44:495][210]LogFileHelpers: All files are already saved.
+[2024.12.18-17.15.44:495][210]LogFileHelpers: Saving map 'MainMenu' took 0.031
+[2024.12.18-17.15.44:502][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 454 ms)
+[2024.12.18-17.15.44:503][210]AssetCheck: New page: Asset Save: MainMenu
+[2024.12.18-17.15.44:503][210]LogContentValidation: Display: Validating /Script/Engine.World /Game/SpaceShooter2DKit/Maps/MainMenu.MainMenu
+[2024.12.18-17.15.45:923][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.18-17.15.48:811][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.BP_WaveSpawner
+[2024.12.18-17.15.48:812][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.15.48:812][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.15.51:167][967]LogSlate: Window 'BP_WaveSpawner' being destroyed
+[2024.12.18-17.16.31:484][763]BlueprintLog: New page: Compile BP_WaveSpawner
+[2024.12.18-17.16.31:506][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.18-17.16.32:135][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.16.32:169][832]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner
+[2024.12.18-17.16.32:169][832]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_WaveSpawner037AF2F14ACC0F72956238A0414F99B3.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.uasset'
+[2024.12.18-17.16.32:176][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 495 ms)
+[2024.12.18-17.16.32:177][832]AssetCheck: New page: Asset Save: BP_WaveSpawner
+[2024.12.18-17.16.32:177][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.BP_WaveSpawner
+[2024.12.18-17.16.56:631][762]BlueprintLog: New page: Compile BP_WaveSpawner
+[2024.12.18-17.16.56:651][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.18-17.16.57:247][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.16.57:292][830]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner
+[2024.12.18-17.16.57:293][830]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_WaveSpawner0917BCC443881A6468630EBDA7E815CD.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.uasset'
+[2024.12.18-17.16.57:299][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 547 ms)
+[2024.12.18-17.16.57:301][830]AssetCheck: New page: Asset Save: BP_WaveSpawner
+[2024.12.18-17.16.57:301][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.BP_WaveSpawner
+[2024.12.18-17.17.16:440][114]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.17.16:440][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.17.18:575][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Spawners/I_Spawner.I_Spawner
+[2024.12.18-17.17.18:575][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.17.18:575][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.17.20:607][589]LogSlate: Window 'I_Spawner' being destroyed
+[2024.12.18-17.17.22:425][806]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.17.22:425][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.17.23:820][972]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SpaceShooter2DKit/Blueprints/Spawners/STR_EnemySpawnee.STR_EnemySpawnee
+[2024.12.18-17.17.25:535][161]LogSlate: Window 'STR_EnemySpawnee' being destroyed
+[2024.12.18-17.17.29:982][690]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SpaceShooter2DKit/Blueprints/Spawners/STR_EnemySpawnee.STR_EnemySpawnee
+[2024.12.18-17.17.37:999][647]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SpaceShooter2DKit/Blueprints/Spawners/STR_PickupSpawnee.STR_PickupSpawnee
+[2024.12.18-17.17.40:214][898]LogSlate: Window 'STR_PickupSpawnee' being destroyed
+[2024.12.18-17.17.42:976][228]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SpaceShooter2DKit/Blueprints/Spawners/STR_SpawnArea.STR_SpawnArea
+[2024.12.18-17.17.44:792][431]LogSlate: Window 'STR_SpawnArea' being destroyed
+[2024.12.18-17.18.13:590][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpaceShooter2DKit/Blueprints/Player/BP_Player.BP_Player
+[2024.12.18-17.18.13:590][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.18.13:590][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.18.15:554][ 73]LogSlate: Window 'BP_Player' being destroyed
+[2024.12.18-17.18.41:644][184]BlueprintLog: New page: Compile BP_Player
+[2024.12.18-17.18.41:671][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.18-17.18.42:221][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.18.42:253][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShooter2DKit/Blueprints/Player/BP_Player" FILE="D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2024.12.18-17.18.42:273][242]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Player/BP_Player
+[2024.12.18-17.18.42:274][242]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_PlayerA5A75AF245377F1185B2758F063D6897.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/BP_Player.uasset'
+[2024.12.18-17.18.42:280][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 606 ms)
+[2024.12.18-17.18.42:281][242]AssetCheck: New page: Asset Save: BP_Player
+[2024.12.18-17.18.42:281][242]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Player/BP_Player.BP_Player
+[2024.12.18-17.19.20:028][739]BlueprintLog: New page: Compile BP_Player
+[2024.12.18-17.19.20:052][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.18-17.19.20:784][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.19.20:818][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShooter2DKit/Blueprints/Player/BP_Player" FILE="D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2024.12.18-17.19.20:838][817]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/Player/BP_Player
+[2024.12.18-17.19.20:838][817]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_PlayerFCB9E7E44A5671B616490284F5AC37DB.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/BP_Player.uasset'
+[2024.12.18-17.19.20:845][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 665 ms)
+[2024.12.18-17.19.20:846][817]AssetCheck: New page: Asset Save: BP_Player
+[2024.12.18-17.19.20:846][817]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpaceShooter2DKit/Blueprints/Player/BP_Player.BP_Player
+[2024.12.18-17.19.39:141][997]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2024.12.18-17.19.39:141][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.19.39:141][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.19.39:147][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.19.39:147][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.19.39:156][997]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.12.18-17.19.39:340][997]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.12.18-17.19.39:341][997]LogSlate: Took 0.000574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.18-17.19.46:922][888]LogSlate: Took 0.003101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.12.18-17.19.57:785][ 10]LogSlate: Window 'Delete Function' being destroyed
+[2024.12.18-17.20.58:618][226]BlueprintLog: New page: Compile BP_MainMenu
+[2024.12.18-17.20.58:624][226]LogBlueprint: Warning: [AssetLog] D:\SpaceShooterCG\SpaceShooter2DKit 5.3\Content\SpaceShooter2DKit\Blueprints\UI\BP_MainMenu.uasset: [Compiler] Could not find a variable named "ShipSelectionButton" in 'BP_MainMenu_C'.
+Make sure 'BP_MainMenu_C' has been compiled for  Get ShipSelectionButton
+[2024.12.18-17.20.58:626][226]LogBlueprint: Error: [AssetLog] D:\SpaceShooterCG\SpaceShooter2DKit 5.3\Content\SpaceShooter2DKit\Blueprints\UI\BP_MainMenu.uasset: [Compiler] Could not find a function named "ToggleShipLocked" in 'BP_MainMenu_C'.
+Make sure 'BP_MainMenu_C' has been compiled for  Toggle Ship Locked
+[2024.12.18-17.20.58:626][226]LogBlueprint: Error: [AssetLog] D:\SpaceShooterCG\SpaceShooter2DKit 5.3\Content\SpaceShooter2DKit\Blueprints\UI\BP_MainMenu.uasset: [Compiler] The property associated with  Ship Selection Button  could not be found in '/Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.BP_MainMenu_C'
+[2024.12.18-17.20.58:646][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.18-17.20.59:567][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.20.59:597][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu" FILE="D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset" SILENT=true
+[2024.12.18-17.20.59:623][327]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu
+[2024.12.18-17.20.59:624][327]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MainMenuC90C93954F80162A1025BA83F78DF70C.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset'
+[2024.12.18-17.20.59:630][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 729 ms)
+[2024.12.18-17.20.59:632][327]AssetCheck: New page: Asset Save: BP_MainMenu
+[2024.12.18-17.20.59:632][327]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2024.12.18-17.21.26:536][491]BlueprintLog: New page: Compile BP_MainMenu
+[2024.12.18-17.21.26:543][491]LogBlueprint: Error: [AssetLog] D:\SpaceShooterCG\SpaceShooter2DKit 5.3\Content\SpaceShooter2DKit\Blueprints\UI\BP_MainMenu.uasset: [Compiler] Could not find a function named "ToggleShipLocked" in 'BP_MainMenu_C'.
+Make sure 'BP_MainMenu_C' has been compiled for  Toggle Ship Locked
+[2024.12.18-17.21.26:561][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.18-17.21.27:172][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.21.27:209][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu" FILE="D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset" SILENT=true
+[2024.12.18-17.21.27:232][557]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu
+[2024.12.18-17.21.27:232][557]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MainMenuC9B25E4C4B9B18BF59A467987B71E94D.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset'
+[2024.12.18-17.21.27:241][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 798 ms)
+[2024.12.18-17.21.27:242][557]AssetCheck: New page: Asset Save: BP_MainMenu
+[2024.12.18-17.21.27:242][557]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2024.12.18-17.21.59:579][415]BlueprintLog: New page: Compile BP_MainMenu
+[2024.12.18-17.21.59:604][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.18-17.22.00:295][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.22.00:327][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu" FILE="D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset" SILENT=true
+[2024.12.18-17.22.00:349][491]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu
+[2024.12.18-17.22.00:349][491]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/BP_MainMenuED3BDA7340AEE8E27283D3905DC05978.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset'
+[2024.12.18-17.22.00:357][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 860 ms)
+[2024.12.18-17.22.00:358][491]AssetCheck: New page: Asset Save: BP_MainMenu
+[2024.12.18-17.22.00:358][491]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.BP_MainMenu
+[2024.12.18-17.22.06:889][271]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.22.06:894][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-17.22.06:896][271]PIE: New page: PIE session: MainMenu (Dec 18, 2024, 7:22:06 PM)
+[2024.12.18-17.22.06:899][271]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.18-17.22.06:899][271]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.12.18-17.22.06:900][271]LogPlayLevel: Creating play world package: /Game/SpaceShooter2DKit/Maps/UEDPIE_0_MainMenu
+[2024.12.18-17.22.06:902][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2024.12.18-17.22.06:902][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceShooter2DKit/Maps/MainMenu.MainMenu to /Game/SpaceShooter2DKit/Maps/UEDPIE_0_MainMenu.MainMenu (0.001943s)
+[2024.12.18-17.22.06:914][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.12.18-17.22.06:916][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.22.06:916][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.22.06:916][271]LogAIModule: Creating AISystem for world MainMenu
+[2024.12.18-17.22.06:916][271]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2024.12.18-17.22.06:917][271]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.22.06:917][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.18-17.22.06:917][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.22.06:917][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.22.06:917][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.22.06:917][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.22.06:918][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.22.06:946][271]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (G435 Wireless Gaming Headset)
+[2024.12.18-17.22.06:946][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.22.06:946][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.22.06:946][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.22.06:947][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.18-17.22.06:947][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.18-17.22.06:948][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.18-17.22.06:948][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.18-17.22.06:948][271]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.18-17.22.06:948][271]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2024.12.18-17.22.06:948][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-17.22.06:951][271]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2024.12.18-17.22.06:952][271]LogWorld: Bringing World /Game/SpaceShooter2DKit/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.18-18.22.06
+[2024.12.18-17.22.06:952][271]LogWorld: Bringing up level for play took: 0.000805
+[2024.12.18-17.22.06:954][271]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.12.18-17.22.06:959][271]LogWindows: WindowsPlatformFeatures enabled
+[2024.12.18-17.22.06:961][271]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.22.06:961][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.12.18-17.22.06:962][271]PIE: Server logged in
+[2024.12.18-17.22.06:962][271]PIE: Play in editor total start time 0.069 seconds.
+[2024.12.18-17.22.10:192][652]LogNet: Browse: /Game/SpaceShooter2DKit/Maps/TestMap
+[2024.12.18-17.22.10:196][652]LogLoad: LoadMap: /Game/SpaceShooter2DKit/Maps/TestMap
+[2024.12.18-17.22.10:196][652]LogWorld: BeginTearingDown for /Game/SpaceShooter2DKit/Maps/UEDPIE_0_MainMenu
+[2024.12.18-17.22.10:196][652]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.22.10:197][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.22.10:247][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-17.22.10:249][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.18-17.22.10:346][652]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2024.12.18-17.22.10:346][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.22.10:346][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.18-17.22.10:346][652]LogAIModule: Creating AISystem for world TestMap
+[2024.12.18-17.22.10:346][652]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.12.18-17.22.10:346][652]LogLoad: Game class is 'BP_SpaceShooter2DGameMode_C'
+[2024.12.18-17.22.10:348][652]LogWorld: Bringing World /Game/SpaceShooter2DKit/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.12.18-18.22.10
+[2024.12.18-17.22.10:348][652]LogWorld: Bringing up level for play took: 0.001070
+[2024.12.18-17.22.10:352][652]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.18-17.22.10:352][652]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.12.18-17.22.10:353][652]LogLoad: Took 0.157069 seconds to LoadMap(/Game/SpaceShooter2DKit/Maps/TestMap)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: ================================================
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Total job queries 8, among them cache hits 2 (25.00%)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Tracking 6 distinct input hashes that result in 6 distinct outputs (100.00%)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: RAM used: 15.25 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 0.53 s
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Job life time (pending + execution): average 0.56 s, max 0.56
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Shader code size: average 5.719 KiB, min 4.734 KiB, max 6.703 KiB
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.56 s
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Average processing rate: 3.56 jobs/sec
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Total thread time: 0.575 s
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Total thread preprocess time: 0.056 s
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Percentage time preprocessing: 9.80%
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Effective parallelization: 1.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 50.08% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.92% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.12.18-17.22.10:930][718]LogShaderCompilers: Display: ================================================
+[2024.12.18-17.22.11:745][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.22.11:745][811]LogWorld: BeginTearingDown for /Game/SpaceShooter2DKit/Maps/UEDPIE_0_TestMap
+[2024.12.18-17.22.11:745][811]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.22.11:746][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.22.11:748][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.22.11:750][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.22.11:761][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-17.22.11:762][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-17.22.11:762][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-17.22.11:764][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-17.22.11:767][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.22.11:769][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.18-17.22.11:830][813]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.12.18-17.22.12:629][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.22.13:055][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.18-17.22.15:847][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.22.15:886][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.18-17.22.15:893][278]LogSavePackage: Moving output files for package: /Game/SpaceShooter2DKit/Maps/MainMenu
+[2024.12.18-17.22.15:893][278]LogSavePackage: Moving 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Saved/MainMenu35A8F25A4A45CE080282B1BDB15E652D.tmp' to 'D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Maps/MainMenu.umap'
+[2024.12.18-17.22.15:895][278]LogFileHelpers: All files are already saved.
+[2024.12.18-17.22.15:895][278]LogFileHelpers: Saving map 'MainMenu' took 0.026
+[2024.12.18-17.22.15:903][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 916 ms)
+[2024.12.18-17.22.15:903][278]AssetCheck: New page: Asset Save: MainMenu
+[2024.12.18-17.22.15:903][278]LogContentValidation: Display: Validating /Script/Engine.World /Game/SpaceShooter2DKit/Maps/MainMenu.MainMenu
