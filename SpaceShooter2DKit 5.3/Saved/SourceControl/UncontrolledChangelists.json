@@ -11,7 +11,11 @@
 				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Maps/MainMenu.umap",
 				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Spawners/BP_WaveSpawner.uasset",
 				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/BP_Player.uasset",
-				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset"
+				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_MainMenu.uasset",
+				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/UI/BP_HUD.uasset",
+				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/PlayerControllers/BP_SpaceShooter2DPlayerController.uasset",
+				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Game/BP_SpaceShooter2DGameMode.uasset",
+				"D:/SpaceShooterCG/SpaceShooter2DKit 5.3/Content/SpaceShooter2DKit/Blueprints/Player/DT_PlayerShips.uasset"
 			]
 		}
 	]
